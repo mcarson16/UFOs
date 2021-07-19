@@ -15,7 +15,7 @@ The site is set up with all data initially visible in a table. However, the user
 ![image](https://user-images.githubusercontent.com/83254435/126101714-34513f57-d6ba-4f0e-a73f-7c986c1cf3be.png)
 
 ## Summary
-The dynamic table allows an end-user to drill down to specific groupings of data. It's quick, simple, and quite user friendly. Improvements could definitely be made to expand functionality and enhance the appearance. Some of the filter search categories require knowlege of the data to effectively comb through it, e.g. the less intuitive 'Shape' category. To help a user who is less familiar with the data, I would recommend a drop down list of filter categories. Adding a 'Clear Filters' button could improve functionality. Lastly, cleaning the table data to remove typos, sytax oddities, etc. would give an overall sense of polish to the site.
+The dynamic table allows an end-user to drill down to specific groupings of data. It's quick, simple, and quite user friendly. Improvements could definitely be made to expand functionality and enhance the appearance. Some of the filter search categories require knowlege of the data to effectively comb through it, e.g. the less intuitive 'Shape' category. To help a user who is less familiar with the data, I would recommend a drop down list of filter categories. Adding a 'Clear Filters' button would enhance the function. Lastly, cleaning the table data to remove typos, sytax oddities, etc. would give an overall sense of polish to the site.
 
 ## Recommendations
 - Utilize bootstrap to update the filters as drop-down values. 
